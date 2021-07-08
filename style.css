@@ -36,6 +36,10 @@ textarea:focus{
     border:none;
     outline:none;
 }
+textarea:active{
+    border:none;
+    outline:none;
+}
 input[type="range"]{
     width: 100%;
 }
