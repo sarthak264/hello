@@ -32,6 +32,10 @@ body{
 textarea{
     resize:none;
 }
+textarea:focus{
+    border:none;
+    outline:none;
+}
 input[type="range"]{
     width: 100%;
 }
